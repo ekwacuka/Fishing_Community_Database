@@ -1,0 +1,6 @@
+Boat_Id,Boat_Name,Boat_Size,Boat_Length,Station_Id,Boat_Capacity,Fishing
+1,Titanic,8,100,102,10,1
+2,New World,10,200,203,15,0
+3,Gigantic,9,150,238,12,1
+4,Wakanda,15,300,345,18,1
+5,Jurassic,7,125,564,10,0
