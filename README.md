@@ -1,6 +1,6 @@
-# MySQL_Assignment3
+## MySQL_Assignment3
 
-   1. Create a database for a Fishing Community using Pythin and MySQL.
+   1. Create a database for a Fishing Community using Python and MySQL.
    
    2. In the Fishing Database create 4 MySQL tables with the following schemas.
    
